@@ -39,7 +39,7 @@ End-to-end CI/CD pipeline for deploying a Go-based web application on EKS with G
 
 **Highlights:**
 - Built & tested with GitHub Actions.
-- Dockerized Go app with image push to DcokerHub.
+- Dockerized Go app with image push to DockerHub.
 - Argo CD for GitOps deployment to Kubernetes.
 - Kubernetes Ingress for custom domain routing.
 
