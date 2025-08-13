@@ -1,7 +1,7 @@
 # Hi, I'm Pattabiraman V K 👋  
-🚀 **Cloud & DevOps Engineer** | Automating, Scaling, and Optimizing Cloud Infrastructure  
+🚀 **AWS DevOps Engineer** | Automating, Scaling, and Optimizing Cloud Infrastructure  
 
-💻 **AWS | Terraform | Kubernetes | Docker | CI/CD | GitHub Actions | Jenkins | Argo CD**  
+💻 **AWS | Kubernetes | Docker | Terraform | Jenkins | GitHub Actions | CI/CD | Ansible | Prometheus | Grafana | Infrastructure as Code (IaC) | ARGO CD | AWS Certified**  
 
 ---
 
