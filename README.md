@@ -23,25 +23,7 @@
 
 ## 📌 Featured Projects
 
-### [Terraform EKS Cluster Setup](https://github.com/pattabi95/terraform-eks)
-Infrastructure as Code (IaC) project to provision a production-ready AWS EKS cluster with secure networking and scalable workloads.
 
-**Highlights:**
-- AWS VPC, subnets, security groups, and route tables.
-- EKS cluster with Terraform remote backend (S3 + DynamoDB).
-- Node groups with auto-scaling and IAM roles.
-- Configured `kubectl` access & context switching.
-
----
-
-### [Go Web App CI/CD Pipeline](https://github.com/pattabi95/go-web-app-devops)
-End-to-end CI/CD pipeline for deploying a Go-based web application on EKS with GitOps.
-
-**Highlights:**
-- Built & tested with GitHub Actions.
-- Dockerized Go app with image push to DockerHub.
-- Argo CD for GitOps deployment to Kubernetes.
-- Kubernetes Ingress for custom domain routing.
 
 ---
 
