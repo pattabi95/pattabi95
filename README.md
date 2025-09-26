@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/pattabiraman)  
+- [LinkedIn](https://www.linkedin.com/in/pattabiraman-v-k-805b47b8/)  
 - ✉️ **pattabimanu@gmail.com**
 
 ---
